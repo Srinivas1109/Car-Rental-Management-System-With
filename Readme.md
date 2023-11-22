@@ -29,7 +29,7 @@ pip install pandas
 2. Open the command prompt and navigate to the folder where the application is stored<br>
 3. Execute the command for creating the database and tables
 ```
-source PES1UG20CS493_Loyalty_Points_Management_System.sql
+source PES1UG20CS517_Car_Rental_Management_System.sql
 ```
 4. Run the command
 ```
